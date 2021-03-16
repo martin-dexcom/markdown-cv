@@ -1,29 +1,27 @@
 ---
 layout: kjhealy
-title: Isaac Newtons's CV
+title: Fernando Martin Garcia Del Angel's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Fernando Martin Garcia Del Angel
+BS.E. Software Engineering, Cloud Engineer, Mobile Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="martingarciadelangel@me.com">martingarciadelangel@me.com</a>
+| <a href="http://linkedin.com/martingda">LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+R&D Security Champion at Dexcom Inc.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+iOS Development, Blockchain Development, Cloud Engineering, Security
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Digital Passports, Blockchain as a Service, Serverless Architecture, IoE
 
 ## Education
 
