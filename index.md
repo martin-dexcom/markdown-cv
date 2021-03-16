@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: kjhealy
 title: Isaac Newtons's CV
 ---
 # Isaac Newton
